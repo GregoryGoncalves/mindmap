@@ -1,27 +1,19 @@
 {
-  "name": "mindmap",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "dependencies": {
+    "next": "^3.0.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GregoryGoncalves/mindmap.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/GregoryGoncalves/mindmap/issues"
-  },
-  "homepage": "https://github.com/GregoryGoncalves/mindmap#readme",
-  "dependencies": {
-    "next": "^2.4.7",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
-  }
+  "name": "mindmap",
+  "version": "1.0.0",
+  "description": "Mindmap software in React",
+  "main": "index.js",
+  "repository": "git@github.com:Selhar/mindmap.git",
+  "author": "Selhar <selhar@protonmail.com>",
+  "license": "GPL 2.0"
 }
